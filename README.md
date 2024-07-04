@@ -3,5 +3,5 @@ A compilation of some of the most commonly asked questions in technical intervie
 
 <h2>Table of Contents</h2>
 1. Pascal's Triangle - Python <br>
-2. lockboxes - Python
+2. Lockboxes - Python
 
