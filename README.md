@@ -5,4 +5,5 @@ A compilation of some of the most commonly asked questions in technical intervie
 1. Pascal's Triangle - Python <br>
 2. Lockboxes - Python <br>
 3. Minimum_operations - Python <br>
-4. Log Parsing - Python
+4. Log Parsing - Python <br>
+5. UTF-8 Validation - Python
