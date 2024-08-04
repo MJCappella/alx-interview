@@ -25,5 +25,4 @@ This project contains interview coding challenges.
       [[0, 4], [1, 2], [2, 0], [3, 5], [4, 3], [5, 1]]
       julien@ubuntu:~/0x08. N Queens$
       ```
-    + You don’t have to print the solutions in a specific order.
   + You are only allowed to import the `sys` module.
