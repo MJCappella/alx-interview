@@ -7,8 +7,5 @@ A compilation of some of the most commonly asked questions in technical intervie
 3. Minimum_operations - Python <br>
 4. Log Parsing - Python <br>
 5. UTF-8 Validation - Python <br>
-6. 0x05-nqueens - python
-
-
-
-
+6. 0x05-nqueens - python <br>
+7. 0x07-rotate_2d_matrix - python
