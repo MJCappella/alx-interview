@@ -8,4 +8,7 @@ A compilation of some of the most commonly asked questions in technical intervie
 4. Log Parsing - Python <br>
 5. UTF-8 Validation - Python <br>
 6. 0x05-nqueens - python <br>
-7. 0x07-rotate_2d_matrix - python
+7. 0x07-rotate_2d_matrix - python <br>
+8.<br>
+9.<br>
+10. x0A-primegame - Python
